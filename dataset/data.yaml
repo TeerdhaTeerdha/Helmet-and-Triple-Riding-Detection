@@ -1,0 +1,13 @@
+train: C:\Code\Own Work\Shreya Nivas Helmet\dataset\train\images
+val: C:\Code\Own Work\Shreya Nivas Helmet\dataset\valid\images
+test: C:\Code\Own Work\Shreya Nivas Helmet\dataset\test\images
+
+nc: 5
+names: ['Triple_riding', 'motorcycle', 'number_plate', 'with_helmet', 'without_helmet']
+
+roboflow:
+  workspace: rhutuja-kakade-bvk3b
+  project: violation-detection-xsjs0
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rhutuja-kakade-bvk3b/violation-detection-xsjs0/dataset/1
