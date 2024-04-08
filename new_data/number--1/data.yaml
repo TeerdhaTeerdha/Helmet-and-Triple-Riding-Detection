@@ -1,0 +1,12 @@
+names:
+- license-plate
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: number-j53ax
+  url: https://universe.roboflow.com/personal-egpas/number-j53ax/dataset/1
+  version: 1
+  workspace: personal-egpas
+test: test/images
+train: train/images
+val: valid/images
